@@ -1,5 +1,5 @@
 ---
-title: PROFESSINAL LAWN CARE
+title: PROFESSIONAL LAWN CARE
 slug: /
 sections:
   - type: GenericSection
