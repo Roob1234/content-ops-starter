@@ -1,5 +1,17 @@
 {
-    "primaryLinks": [],
+    "primaryLinks": [
+        {
+            "type": "Link",
+            "label": "Facebook",
+            "altText": "Facebook",
+            "url": "/https://www.facebook.com/profile.php?id=61579178021070",
+            "showIcon": true,
+            "icon": "facebook",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-left",
     "colors": "bg-light-fg-dark",
