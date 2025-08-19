@@ -1,5 +1,5 @@
 ---
-title: Home
+title: PROFESSINAL LAWN CARE
 slug: /
 sections:
   - type: GenericSection
