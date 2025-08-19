@@ -53,7 +53,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/BG.pNg
     media:
       type: ImageBlock
       url: /images/hero2.svg
