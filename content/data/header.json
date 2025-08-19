@@ -14,5 +14,12 @@
                 "borderRadius": "medium"
             }
         }
+    },
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6"
+            ]
+        }
     }
 }
