@@ -61,6 +61,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/BG2.pNg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
