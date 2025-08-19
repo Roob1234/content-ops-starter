@@ -11,7 +11,7 @@
         "weight": "bold",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "tight",
+        "letterSpacing": "tighter",
         "type": "ThemeStyleHeading"
     },
     "h2": {
