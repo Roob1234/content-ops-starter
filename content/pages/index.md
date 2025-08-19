@@ -48,7 +48,7 @@ sections:
           - pr-16
     media:
       type: ImageBlock
-      url: /images/TLG.pNg
+      url: /images/CALL.pNg
       altText: Image alt text placeholder
       elementId: ''
       styles:
